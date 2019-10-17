@@ -1,3 +1,4 @@
 caca.txt
 *.log
 log/
+*.orig
