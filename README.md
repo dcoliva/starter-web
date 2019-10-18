@@ -20,4 +20,4 @@ Sample website with plenty of files for demos.
 
 ## Copyright
 
-2019 dcoliva.
+2019 dcoliva. All rights reserved.
