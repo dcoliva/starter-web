@@ -18,6 +18,8 @@ Please fork this repository an then issue Pull Requests for review.
 
 Sample website with plenty of files for demos.
 
+## Updates from Dev 1
+
 ## Copyright
 
 2019 dcoliva. All rights reserved.
